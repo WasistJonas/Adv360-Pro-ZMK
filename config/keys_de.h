@@ -292,7 +292,7 @@
 #define DE_RIGHT_BRACE (RA(ZMK_HID_USAGE(HID_USAGE_KEY, HID_USAGE_KEY_KEYBOARD_0_AND_RIGHT_PARENTHESIS)))
 #define DE_RBRC (DE_RIGHT_BRACE)
 
-/* ~ */
+/* TODO ~ */
 #define DE_TILDE (RA(ZMK_HID_USAGE(HID_USAGE_KEY, HID_USAGE_KEY_KEYBOARD_RIGHT_BRACKET_AND_RIGHT_BRACE)))
 
 /* § */
@@ -339,3 +339,9 @@
 
 /* € */
 #define DE_EURO (RA(ZMK_HID_USAGE(HID_USAGE_KEY, HID_USAGE_KEY_KEYBOARD_E)))
+
+// TODO | > < (f, j, x, c)
+//
+// [ => } ?
+// <<<<
+// )*((({{{}}}}}}}}{}{}{}{}{})()()(((*Ü*Ü*Ü*Ü*Ü*Ü*Ü*Ü*Ü*Ü**Ü*Ü*Ü*Ü*{}{}{}}{}{}{}{}{}{}}{}{}{}{}{}{}()(()()(**Ü*Ü*Ü*Ü;:;:;:*Ü*Ü*Ü**Ü*Ü*Ü*))))))
