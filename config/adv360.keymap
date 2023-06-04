@@ -82,7 +82,7 @@
             bindings = <
  &trans           &trans             &trans                &trans          &trans      &trans            &trans                                                  &trans         &trans           &trans                 &trans             &trans            &trans  &trans
  &trans  &kp EXCLAMATION  &kp DE_DOUBLE_QUOTES              &kp DE_PIPE     &kp DE_PERCENT    &kp DE_STAR            &trans                                                  &trans       &kp DE_HASH  &kp DE_UNDERSCORE             &kp DE_EQUAL   &kp DE_SINGLE_QUOTE      &kp DE_QUESTION  &trans
- &trans    &kp DE_LESS_THAN   &kp DE_LEFT_BRACKET  &kp DE_LEFT_PARENTHESIS  &kp DE_LEFT_BRACE   &kp DE_COLON            &trans  &trans  &trans                  &trans  &trans  &trans  &kp DE_SEMI  &kp RIGHT_BRACE  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET  &kp GREATER_THAN  &trans
+ &trans    &kp DE_LESS_THAN   &kp DE_LEFT_BRACKET  &kp DE_LEFT_PARENTHESIS  &kp DE_LEFT_BRACE   &kp DE_COLON            &trans  &trans  &trans                  &trans  &trans  &trans  &kp DE_SEMI  &kp DE_RIGHT_BRACE  &kp DE_RIGHT_PARENTHESIS  &kp DE_RIGHT_BRACKET  &kp DE_GREATER_THAN  &trans
  &trans           &trans             &trans         &kp BACKSLASH       &kp MINUS  &kp PERIOD                            &trans                  &trans                      &kp COMMA         &kp PLUS              &kp SLASH              &none            &trans  &trans
  &trans           &trans             &trans                &trans          &trans                        &trans  &trans  &trans                  &trans  &trans  &trans                          &trans                 &trans             &trans            &trans  &trans
             >;
